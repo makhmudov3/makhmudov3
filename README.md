@@ -14,57 +14,34 @@
 # 🚀 About Me
 
 * 💻 Full Stack Developer
-* ⚛️ Building modern web applications with React & Next.js
-* 📱 Learning and building mobile applications with React Native
-* 🛠️ Working with Node.js & Express.js
+* ⚛️ Building modern web applications
+* 📱 Working with React Native
+* 🛠️ Developing backend applications with Node.js & Express.js
 * 🗄️ Working with PostgreSQL & Sequelize
-* 🎨 Creating modern and responsive UI with Tailwind CSS
-* 🔄 Using Redux for state management
+* 🎨 Creating modern and responsive interfaces
 * 🤖 Exploring AI integration with Gemini
-* ⚡ Passionate about programming and learning new technologies
+* ⚡ Passionate about programming
 * 🎯 Goal: Become a professional Software Engineer
 
 ---
 
 # 🛠 Tech Stack
 
-### 🎨 Frontend
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
-</div>
 
-### 📱 Mobile
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,postgres,git,github,vscode" />
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react" />
-</div>
+<br><br>
 
-<p align="center">
-  React Native
+<img src="https://skillicons.dev/icons?i=redux" />
+
+<br><br>
+
+<p>
+  <b>React Native</b> • <b>Sequelize</b> • <b>Socket.io</b> • <b>Gemini AI</b>
 </p>
 
-### ⚙️ Backend
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </div>
-
-### 🗄️ Database
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres" />
-</div>
-
-### 🔧 Tools & Technologies
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</div>
-
-<p align="center">
-  Redux • Sequelize • Socket.io • Gemini AI
-</p>
 
 ---
 
