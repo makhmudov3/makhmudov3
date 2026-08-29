@@ -1,61 +1,58 @@
 <h1 align="center">Hi 👋, I'm Abdulaziz</h1>
-<h3 align="center">💻 Full Stack Developer from Uzbekistan 🇺🇿</h3>
+
+<h3 align="center">
+  💻 Full Stack Developer • 🇺🇿 Uzbekistan
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Frontend+Developer;Backend+Developer;React+Developer;Node.js+Developer;Always+Learning+New+Things&center=true&width=550&height=50">
+  <a href="https://github.com/makhmudov3">
+    <img src="https://komarev.com/ghpvc/?username=makhmudov3&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=makhmudov3&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Frontend+%7C+Backend+Developer;Building+Modern+Web+Applications;Always+Learning+New+Things&center=true&width=550&height=50" />
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-* 💻 Full Stack Developer
-* ⚛️ Building modern web applications
-* 📱 Working with React Native
-* 🛠️ Developing backend applications with Node.js & Express.js
-* 🗄️ Working with PostgreSQL & Sequelize
-* 🎨 Creating modern and responsive interfaces
-* 🤖 Exploring AI integration with Gemini
-* ⚡ Passionate about programming
-* 🎯 Goal: Become a professional Software Engineer
+I'm a Full Stack Developer focused on building modern, scalable and user-friendly applications.
+
+* 💻 Full Stack Web Development
+* ⚛️ React & Next.js
+* 📱 React Native
+* ⚙️ Node.js & Express.js
+* 🗄️ PostgreSQL & Sequelize
+* 🎨 Tailwind CSS
+* 🤖 AI integration with Gemini
+* 🔥 Always learning and improving
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,postgres,git,github,vscode" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,postgres,git,github,vscode" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=redux" />
-
-<br><br>
-
-<p>
+<p align="center">
   <b>React Native</b> • <b>Sequelize</b> • <b>Socket.io</b> • <b>Gemini AI</b>
 </p>
 
-</div>
-
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=makhmudov3&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makhmudov3&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=makhmudov3&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makhmudov3&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=makhmudov3&theme=tokyonight&hide_border=true" />
@@ -63,7 +60,7 @@
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -71,25 +68,20 @@
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://t.me/abdulaziz_mahmudov">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
 
-<a href="https://t.me/abdulaziz_mahmudov">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
+<p align="center">
+  📱 +998 90 908 64 34
 </p>
 
 ---
 
-# 📞 Contact
-
-* 📱 Phone: +998 90 908 64 34
-* 💬 Telegram: @abdulaziz_mahmudov
-
----
-
 <p align="center">
-  ⭐️ Thanks for visiting my GitHub profile!
+  <i>Code. Learn. Build. Repeat. 🚀</i>
 </p>
