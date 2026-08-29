@@ -2,7 +2,7 @@
 <h3 align="center">💻 Full Stack Developer from Uzbekistan 🇺🇿</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Backend+Developer;Frontend+Developer;Node.js+Developer;Always+Learning+New+Things&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Frontend+Developer;Backend+Developer;React+Developer;Node.js+Developer;Always+Learning+New+Things&center=true&width=550&height=50">
 </p>
 
 <p align="center">
@@ -14,21 +14,57 @@
 # 🚀 About Me
 
 * 💻 Full Stack Developer
-* 🌱 Currently learning Backend & System Design
-* ⚡ Passionate about programming
+* ⚛️ Building modern web applications with React & Next.js
+* 📱 Learning and building mobile applications with React Native
+* 🛠️ Working with Node.js & Express.js
+* 🗄️ Working with PostgreSQL & Sequelize
+* 🎨 Creating modern and responsive UI with Tailwind CSS
+* 🔄 Using Redux for state management
+* 🤖 Exploring AI integration with Gemini
+* ⚡ Passionate about programming and learning new technologies
 * 🎯 Goal: Become a professional Software Engineer
-* 🔥 Building modern web applications
-* 🇺🇿 Based in Uzbekistan
 
 ---
 
 # 🛠 Tech Stack
 
+### 🎨 Frontend
+
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,postgres,git,github,docker,java,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </div>
+
+### 📱 Mobile
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react" />
+</div>
+
+<p align="center">
+  React Native
+</p>
+
+### ⚙️ Backend
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</div>
+
+### 🗄️ Database
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</div>
+
+### 🔧 Tools & Technologies
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</div>
+
+<p align="center">
+  Redux • Sequelize • Socket.io • Gemini AI
+</p>
 
 ---
 
@@ -45,7 +81,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=makhmudov3&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=makhmudov3&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -73,10 +109,10 @@
 # 📞 Contact
 
 * 📱 Phone: +998 90 908 64 34
-* 💬 Telegram: [@abdulaziz_mahmudov](https://t.me/abdulaziz_mahmudov)
+* 💬 Telegram: @abdulaziz_mahmudov
 
 ---
 
 <p align="center">
-  ⭐️ Thanks for visiting my profile!
+  ⭐️ Thanks for visiting my GitHub profile!
 </p>
